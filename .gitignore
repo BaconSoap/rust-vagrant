@@ -1,1 +1,3 @@
 .vagrant
+sync
+!sync/gitkeep
